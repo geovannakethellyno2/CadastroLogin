@@ -1,0 +1,5 @@
+Connection\Conexao.class
+Control\UsuarioController.class
+View\TelaCadastro.class
+com\mycompany\cadastrologin\CadastroLogin.class
+Model\Usuario.class
